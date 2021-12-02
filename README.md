@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
 </p>
 
-- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing
+- 💬 Ask me about: .NET, clean-architecture, micro-services, CQRS, event-sourcing
 - 👯 I’m looking to collaborate on: .NET projects
 </br>
 
