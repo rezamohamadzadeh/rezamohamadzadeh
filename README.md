@@ -27,7 +27,7 @@
 
 <p align="center">
  <a href="#" alt="Reza Mohamadzadeh's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezamohamadzadeh&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezamohamadzadeh&show_icons=true&theme=tokyonight&include_all_commits=false" />
  </a>
 </p>
 
