@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Reza Mohamadzadeh 👋</h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/reza-mohamadzadeh-0516671b5/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
- </a>
   
  <a href="https://twitter.com/R3Z4_Mo" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
